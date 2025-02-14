@@ -280,3 +280,6 @@ _NCrunch*
 
 # Expo
 expo-env.d.ts
+
+# Angular
+.angular/
